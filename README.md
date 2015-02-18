@@ -91,6 +91,7 @@ See [Noble 2009] for a full description of and argument for the principle templa
 
 Todo
 ----
+
 -[ ] Finish git (without hub) instructions 
 -[ ] Add sphinx documentation 
 -[ ] Add python branch
