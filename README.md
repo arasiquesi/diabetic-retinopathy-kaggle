@@ -100,7 +100,7 @@ Todo
 ----
 
 - [ ] Finish git (without hub) instructions 
-- [ ] Add sphinx documentation 
+- [x] Add sphinx documentation 
 - [ ] Add python branch
 - [ ] Add paper templates repository
 
