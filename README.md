@@ -32,10 +32,13 @@ How to use
 ### From repository (preferred)
 
 The preferred strategy is to:
+
 1. clone the desired branch of this repository (depending on which kind of project you want to start).
 2. Adapt to convenience for the inital commit.
+
   * Open this document in an editor. Change the first line to reflect the title of your research study, and delete the rest of the content in this file. You can, but are not obligated to keep the Acknowledgements section.
   * Delete the LICENSE.md file, unless it will also apply to your project. (However, it probbaly will not to all of it.)
+
 3. squash the repo into a single commit (the new initial commit).
 4. create an online version of the repo.
 5. publish the repo.
