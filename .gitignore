@@ -90,6 +90,11 @@ Temporary Items
 # proportion of contributors will probably not be using SublimeText
 # *.sublime-project
 
+# Ignore files from sphinx
+_build
+_static
+_templates
+
 # Ignore tags created by etags, ctags, gtags (GNU global) and cscope
 TAGS
 !TAGS/
