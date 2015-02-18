@@ -46,7 +46,7 @@ The preferred strategy is to:
 
 #### Using GIT commands
 ```
-hub clone --single-branch --branch=master -o templateSource --depth=1 https://github.com/massich/rr-init.git my_project_name
+git clone --single-branch --branch=master -o templateSource --depth=1 https://github.com/massich/rr-init.git my_project_name
 cd my_project_name
 vim ./README.md
 git reset --hard $(git commit-tree HEAD^{tree} -m "initial commit")
