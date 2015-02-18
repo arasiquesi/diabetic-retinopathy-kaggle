@@ -89,6 +89,13 @@ See [Noble 2009] for a full description of and argument for the principle templa
 * (Best) There is a formal metadata descriptor at the root of the package that describes all the important input and output data files.
 * (Meta) ~~The template structure should have no special software or skill prerequisites to install. Specifically, deploying the template structure should not require installing git, or using the command line.~~ You should really think about investing the time in learning GIT basics. However if you feel that today is not the day to do so, you can still use it without GIT by downloading the template as zip, etc.
 
+Where to go from here
+---------------------
+
+* look at ``./doc/README.md`` and adapt the documentation to your needs
+* Modify this document to provide a summary of the project
+
+
 Todo
 ----
 
