@@ -10,7 +10,7 @@ DR can be characterised through the detection of abnormalities in fundus images:
 * macular edema,
 * hemorrhages.
 
-- [] Get "Visible manifestations of diabetic retinopathy", Phillips P.J.
+- [ ] Get "Visible manifestations of diabetic retinopathy", Phillips P.J.
 
 From Sidibe et al. (2015), there is a common framework for these specific lesions detection:
 
@@ -23,7 +23,7 @@ Giancardo et al. (2012) is an example of exudates detection.
 
 Sidibe et al. (2015) proposed an interesting approach by first detecting which can of lesions can occur in the image, before to apply specific algorithm to quantify the DR stages.
 
-- [] Check which lesions can be simutaneouly or not in the fundus image.
+- [ ] Check which lesions can be simutaneouly or not in the fundus image.
 
 ## Proposed ideas
 
