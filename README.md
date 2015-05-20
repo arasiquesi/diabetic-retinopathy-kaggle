@@ -53,6 +53,7 @@ Similar Projects
 Todo
 ----
 
+- [ ] Add virtual-env behaviour (at /src)
 - [ ] Add sphinx documentation as project.io website
 - [ ] report how to download the data
 - [ ] Data load example
